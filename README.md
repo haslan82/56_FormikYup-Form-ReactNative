@@ -1,4 +1,4 @@
-# FormikYup Form ReactNative
+# FormikYup  ReactNative
 
 Formik ve Yup kütüphanelerini kullanarak oluşturulan bu çalışmada, form yönetimini kolaylaştırırken aynı zamanda kullanıcıdan alınan bilgilerin doğruluğunu sağlamaktadır. Şık bir kullanıcı arayüzü ve güçlü doğrulama kuralları ile  güvenilir ve modern bir kayıt formu deneyimi sunmaktadır. UI Kitten kütüphanesi sayesinde modern, şık ve kullanıcı dostu bir arayüz sunar. Kullanıcı hataları için anlamlı geri bildirim mesajları sağlanır, böylece kullanıcılar formları hızlı ve doğru bir şekilde doldurabilir.
 
